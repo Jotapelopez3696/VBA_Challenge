@@ -3,7 +3,7 @@
 ## Overview of Project
 This code is made to analyze the yearly summary of stock market. The main idea is to check to action´s volume of yearly trading and the yearly return. This Macro present two option of analysis, this is to be able to compare two processes that do the same, but one of it with less computational effort which means less time running.
 
-<img src="https://render.githubusercontent.com/render/math?math=Return =\frac{Ending Price}{Inicial Price}-1">
+
 ## Results
 
 ### Coding
