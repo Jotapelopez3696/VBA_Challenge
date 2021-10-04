@@ -14,8 +14,11 @@ The flow of the code is simple. For each row the code analyzes the rows and sum 
 The interesting part of the code is the two options of analysis. To see it in a simple way this code needs to check every row to save the data of each one. In the first code is a for loop of each row looking for a specific action, so the computer runs all rows for each action. The second one store the data without looking for a specific action so the for loop just check the whole rows once.
 For 2017 took 1 second and with the new code last for 0.28 seconds
 
-! [Timer_2017](image_1.PNG)
+! [Timer_2017](VBA_Challenge_2017.png)
+
 For 2017 took .09 seconds and with the new code last for 0.29 second
+
+! [Timer_2018](VBA_Challenge_2018.png)
 
 
 ### 2017 & 2018
@@ -24,6 +27,9 @@ On the other hand, after the good year 2017 almost every action has negative ret
 
 
 ## Summary
+
+Refactor a code maybe see simple and for this case was not so representative because of the complexity of this analysis. But for other codes with higher computational complexity will allow the researcher or data analyst to save time, improve the efficiency and have a aesthetic code.
+In this case the code help use to check least time the rows and we improve the efficiency of the computer. This same idea applied to a bigger data set will show better results. So we can conclude that refactor this code will show better results as the data set gets bigger
 
 
 
